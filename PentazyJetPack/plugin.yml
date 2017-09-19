@@ -1,0 +1,6 @@
+name: PentazyJetPack
+version: 1.0
+main: jetpack.Main
+commands:
+  jetpack:
+    description: Faz nd
